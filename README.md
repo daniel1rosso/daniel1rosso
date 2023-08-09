@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I currently work at StartUniversity<br>🔭 I am an information systems engineer.<br>💬 Captivates me:<br>     ⚡ Research.<br>     ⚡ Integrations.<br>     ⚡ Great challenges<br>     ⚡ DevOps<br>     ⚡ Back-End<br>     ⚡ Teamwork<br>     ⚡ Cloud<br>     ⚡ Continuous growth
+🤝 I currently work at StartUniversity<br>🔭 I am an information systems engineer.<br>🔭 I am an DevSecOps engineer.<br>💬 Captivates me:<br>     ⚡ DevOps<br>     ⚡ DevSecOps<br>     ⚡ Terraform<br>     ⚡ AWS<br>     ⚡ Back-End<br>     ⚡ Docker<br>     ⚡ Teamwork<br>     ⚡ Cloud<br>     ⚡ Research.<br>     ⚡ Integrations.<br>     ⚡ Great challenges<br>     ⚡ Continuous growth
 
 
 ## 🌐 Socials:
