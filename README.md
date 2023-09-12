@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-alberto-rosso-444305170) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rocho13) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daniel_rosso_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/daniel1rosso) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/daniel1rosso#7259) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@danielrosso)
 
 # 💻 AWS Certified:
-<img src="https://github.com/daniel1rosso/daniel1rosso/raw/main/assets/38544140/b754dc16-f7a8-4012-8445-d7775df846bd" width="200" height="200">
+![awscloudpractitioner](https://github.com/daniel1rosso/daniel1rosso/raw/main/assets/38544140/b754dc16-f7a8-4012-8445-d7775df846bd)
 
 
 # 💻 Tech Stack:
