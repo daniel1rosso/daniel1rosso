@@ -8,8 +8,8 @@
 # 💻 AWS Certified:
 <div class="d-flex flex-row justify-content-start">
     <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" height="150">
-    <img src="[https://danielalbertorosso.com.ar/aws-solutions-architect-associate.png](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)" width="150" height="150">
-    <img src="[https://danielalbertorosso.com.ar/aws-certified-cloud-practitioner.png](https://images.credly.com/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png)" width="150" height="150">
+    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" height="150">
+    <img src="https://images.credly.com/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" width="150" height="150">
 </div>
 
 # 💻 Tech Stack:
